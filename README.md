@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="Typing animation" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" alt="Matrix Code Rain" />
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#007acc;">SIREESHA KUMMARIGUNTA</span> 
