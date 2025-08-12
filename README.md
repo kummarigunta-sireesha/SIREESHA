@@ -1,6 +1,6 @@
 <h2 align="center">🚀 Welcome to My GitHub!</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Minimal Coding Animation" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/photo.jpg" width="220" alt="Sireesha - Developer" />
 </p>
 
 
