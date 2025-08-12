@@ -35,7 +35,7 @@ Continuous learning is my driving force, and I’m always eager to take on chall
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sireesha-kummarigunta&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sireeshakummarigunta&show_icons=true&theme=radical)
 
 ---
 
