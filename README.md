@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding in progress" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="Typing animation" />
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#007acc;">SIREESHA KUMMARIGUNTA</span> 
