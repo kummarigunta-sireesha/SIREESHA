@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
-<h3 align="center">Web Dev | AI Trainee| Problem Solver 🚀 |🎓 <a href="#">B.Tech</a> (Graduating 2026)</h3>
+<h3 align="center">Web Dev | AI Trainee| Problem Solver 🚀 |🎓 B.Tech (Graduating 2026)</h3>
 
 <p align="center">
 I’m a <b>B.Tech</b> CSE student passionate about web development and artificial <b>intelligence</b>.  
