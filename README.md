@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" alt="Matrix Code Rain" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding at desk" />
 </p>
-
 <h1 align="center">Hi, I'm <span style="color:#007acc;">SIREESHA KUMMARIGUNTA</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
