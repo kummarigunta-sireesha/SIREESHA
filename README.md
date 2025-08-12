@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320" alt="Developer at work" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#007acc;">SIREESHA KUMMARIGUNTA</span> 
+<h1 align="center">Hi, I'm <span style="color:#007acc;">KUMMARIGUNTA SIREESHA</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
