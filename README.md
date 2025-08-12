@@ -40,6 +40,6 @@ Continuous learning is my driving force, and I’m always eager to take on chall
 ---
 
 ### 💎 My Values  
-- Clarity in Code  
-- Empathy in Design  
-- Integrity in Work
+- Continuous Learning
+- Ownership & Responsibility
+- Respect for Time
