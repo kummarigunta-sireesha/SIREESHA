@@ -1,6 +1,6 @@
 <h2 align="center">🚀 Welcome to My GitHub!</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/photo.jpg" width="220" alt="Sireesha - Developer" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/avatar.png" width="260" alt="Avatar - Sireesha" />
 </p>
 
 
